@@ -1,0 +1,25 @@
+.avatar-box {
+    background-image: url("http://place-puppy.com/250x250");
+    height: 300px;
+    display: inline-block;
+    width: 27%;
+    background-repeat: no-repeat;
+    background-position: 50px 64px;
+}
+
+.info-box {
+    height: 300px;
+    display: inline-block;
+    width: 59%;
+}
+
+.info-box button {
+    margin-top: 65px;
+}
+
+.bio, .hobbies {
+    padding-left: 45px;
+    font-size: 18px;
+    font-family: sans-serif;
+    line-height: 27px;
+}
